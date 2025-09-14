@@ -121,3 +121,5 @@ input::placeholder{
 .bg-new-blue {
     background-color: #1E1B3D !important;
 }
+
+.form-control:focus {box-shadow: none !important;}
